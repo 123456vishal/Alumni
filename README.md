@@ -10,5 +10,5 @@ This project is a web application for alumni , built using JSP and Servlet techn
 
 ## Setup
 
-1. git clone https://github.com/123456vishal/alumnii.git
+1. git clone https://github.com/123456vishal/alumni.git
 
